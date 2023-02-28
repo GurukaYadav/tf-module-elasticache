@@ -7,3 +7,5 @@ variable "PG_FAMILY" {}
 variable "PRIVATE_SUBNET_ID" {}
 variable "VPC_ID"  {}
 variable "PRIVATE_SUBNET_CIDR" {}
+variable "PROJECT" {}
+variable "ENV" {}
