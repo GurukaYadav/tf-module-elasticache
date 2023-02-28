@@ -1,0 +1,9 @@
+variable "ENGINE" {}
+variable "ENGINE_VERSION" {}
+variable "INSTANCE_CLASS" {}
+variable "NO_OF_NODES" {}
+variable "PORT" {}
+variable "PG_FAMILY" {}
+variable "PRIVATE_SUBNET_ID" {}
+variable "VPC_ID"  {}
+variable "PRIVATE_SUBNET_CIDR" {}
